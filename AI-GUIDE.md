@@ -12,15 +12,15 @@
 
 ## 2. 拿 DeepSeek API Key
 
-打开 [platform.deepseek.com](https://platform.deepseek.com/) → 注册/登录 → 「API Keys」→ 「Create new secret key」→ 复制 Key。
+打开 [platform.deepseek.com](https://platform.deepseek.com/) 「Create new secret key」→ 复制 Key。
 
-**别忘了充值。** 最低 1 元起充，能用很久。
+**别忘了充值。** 冲个10元，能用很久。
 
 ---
 
 ## 3. 拿 QQ 邮箱授权码
 
-登录你的 QQ 邮箱 → **设置** → **账户** → 往下翻找到 **「IMAP/SMTP 服务」** → 开启 → 发短信验证 → 拿 16 位授权码。关掉弹窗就看不到了，**立刻保存好**。
+登录你的 QQ 邮箱 网页版→ **设置** → **账号与安全** → 安全设置 **「IMAP/SMTP 服务」** → 开启 → 发短信验证 → 拿 16 位授权码。关掉弹窗就看不到了，**立刻保存好**。
 
 注意这是授权码，不是你的 QQ 密码。
 
